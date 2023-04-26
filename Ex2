@@ -10,6 +10,7 @@ namespace Lista1ex2
     {
         static void Main(string[] args)
         {
+            //Declaração de variáveis 
             double a;
             double b;
             Console.Write("Digite o valor a: ");
